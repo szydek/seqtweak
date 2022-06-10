@@ -2,7 +2,7 @@
 
 **IMPORTANT NOTE:**
 This project would not be possible without the wonderful work on
-Pitch Stepper version 2 by Dennis DeSantis
+[Pitch Stepper by Dennis DeSantis](https://dennisdesantis.com/max-for-live-devices/pitch-stepper)
 
 Yet Another Max4Live MIDI Sequencer - Use existing notes from any MIDI clip in Ableton Live to create and tweak new sequences. Once notes are loaded, the gates from any playing clip will be used to control the ryhthmic dimensions of how the captured pitches are played back (Forward, Reverse, Repeated Random Order, and Random.
 
